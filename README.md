@@ -1,6 +1,14 @@
 # X-Press Publishing
 X-Press Publishing is a web application built using the React framework for the front end, and express/sqlite for the backend. It allows users to create, view, update, and delete items such as artists, series, and issues. Using a RESTful API architecture in combination with SQLite the data created/manipulated within the application persists after the application is closed. 
 
+![screen shot 2019-01-31 at 9 26 50 pm](https://user-images.githubusercontent.com/27708647/52104538-f14e9e80-259f-11e9-98b7-197e65f4a95e.png)
+
+![screen shot 2019-01-31 at 9 28 04 pm](https://user-images.githubusercontent.com/27708647/52104551-00cde780-25a0-11e9-918f-5040fdc79267.png)
+
+![screen shot 2019-01-31 at 9 28 40 pm](https://user-images.githubusercontent.com/27708647/52104562-0fb49a00-25a0-11e9-83f1-bf67695d1e14.png)
+
+![screen shot 2019-01-31 at 9 30 49 pm](https://user-images.githubusercontent.com/27708647/52104572-1e9b4c80-25a0-11e9-97c7-e75bd22b9c9d.png)
+
 
 ### Prerequisites
 * [Node.js](https://nodejs.org/en/) - The runtime environment used
