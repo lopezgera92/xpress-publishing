@@ -25,7 +25,7 @@ X-Press Publishing is a web application built using the React framework for the 
 * To install express in your working directory type "npm install express --save" in your CLI
 * To install sqlite in your working directory type "npm install sqilte3" in your CLI
 * To run the application, type the command "npm start" into your CLI to begin the react script start
-* If the application does not open automatically, type "http://localhost:4000/" into your browser
+* If the application does not open automatically, drag the index.html file into your browser
 
 ## Testing
 * Test suites created using the Mocha/Chai JavaScript testing frameworks. Type commands "npm install --global mocha" and "npm install --global chai" in your CLI
